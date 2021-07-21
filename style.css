@@ -1,0 +1,34 @@
+.background {
+    background-color: whitesmoke;
+    height: 624px;
+    width: 1152px;
+}
+
+#stars {
+    background-color: rgb(10, 10, 202);
+    height: 336px;
+    width: 462px;
+}
+
+#nextToStars {
+    height: 336px;
+    width: 690px;
+}
+
+#bottomHalf {}
+
+#redStrip {
+    background-color: rgb(204, 6, 6);
+    height: 48px;
+    margin-bottom: 48px;
+}
+
+.flexible {
+    display: flex;
+}
+
+.flexible #redStrip {
+    background-color: rgb(204, 6, 6);
+    height: 48px;
+    margin-bottom: 48px;
+}
